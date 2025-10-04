@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahk7859.github.io/Monster-Paint-Calgary-Commercial-Painters-Renos-Ltd/sitemap.xml
